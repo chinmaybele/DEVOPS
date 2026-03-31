@@ -2,4 +2,8 @@ Hello
 Feature work 
 Teammate work 
 Teammate work 
+<<<<<<< HEAD
 Main change 
+=======
+Feature change 
+>>>>>>> feature-branch
